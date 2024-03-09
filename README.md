@@ -66,7 +66,7 @@ Applied data analytics to support strategic decision making  within the organiza
 
 
 
-[View/Download CV](https://github.com/abiodunarabaa/abiodunarabaa.github.io/blob/main/resume.html)
+[View/Download CV](resume.html)
 
 
 
