@@ -66,6 +66,7 @@ Applied data analytics to support strategic decision making  within the organiza
 
 
 
+[View/Download CV](resume.html)
 
 
 
